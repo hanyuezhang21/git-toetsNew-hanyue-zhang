@@ -2,10 +2,15 @@ ANTWOORDEN TOETS GIT & GITHUB
 Naam: Hanyue Zhang
 
 OPDRACHT 3
-1.
-2.
-3.
-4.
+c423774 Homepage naar versie 2
+dabc23c Basiswebsite toegevoegd
+a0784eb Initial commit
+Commando: git log --oneline -- index.html
+Antwoord: c423774 Homepage naar versie 2
+dabc23c Basiswebsite toegevoegd
+Commando: git blame index.html
+Antwoord: c423774c (HanyueZhang 2026-09-29 11:56:02 +0200 10)     <p>Versie 2</p >
+git show <hash>
 
 OPDRACHT 7
 a.
